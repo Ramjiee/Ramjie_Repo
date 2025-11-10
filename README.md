@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub itself]
 
-- 💬 Ask me about **Data Scientist and Analytical thing**
-
 - 📫 How to reach me **https://www.linkedin.com/in/ramjith-r-011b86210/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OgLYmyyHw7uMpGBZJ5yYJSs8p3h7sthF/view?usp=sharing](https://drive.google.com/file/d/1OgLYmyyHw7uMpGBZJ5yYJSs8p3h7sthF/view?usp=sharing)
